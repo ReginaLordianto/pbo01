@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataMahasiswa</string>
+    <string name="nim_mahasiswa">Nim Mahasiswa</string>
+    <string name="cari_mhs">cari mahasiswa</string>
+</resources>
